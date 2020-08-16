@@ -12,7 +12,7 @@
 
 .promo {
     height: 800px;
-    background: url(/IMG/bgAndImages/BgIMG.jpg) center center/cover no-repeat;
+    background: url(../IMG/bgAndImages/BgIMG.jpg) center center/cover no-repeat;
     padding: 39px 0px 62px 0px;
 }
 
@@ -228,7 +228,7 @@ h2.title {
 .finish {
     min-height: 447px;
     padding: 86px 0 79px 0;
-    background: url("/IMG/bgAndImages/BgThirtBlock.png") center center / cover no-repeat;
+    background: url("../IMG/bgAndImages/BgThirtBlock.png") center center / cover no-repeat;
 }
 
 .finish .finish_wrapper {
