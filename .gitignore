@@ -3,7 +3,7 @@
 
 
 #testing
-
+/Pulse/node_modules
 #Marks_AndLogo/    - ignore this folder
 
 #Marks_AndLogo/*.txt   - ignore this extension
